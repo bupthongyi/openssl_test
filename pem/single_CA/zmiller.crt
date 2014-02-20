@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=Wisconsin, L=Madison, O=University of Wisconsin -- Madison, O=Computer Sciences Department, OU=Condor Project, CN=ROOT CA
+        Validity
+            Not Before: Feb 18 08:34:19 2014 GMT
+            Not After : Feb 18 08:34:19 2015 GMT
+        Subject: C=US, ST=Wisconsin, L=Madison, O=University of Wisconsin -- Madison, O=Computer Sciences Department, OU=Condor Project, CN=Zach Miller/emailAddress=zmiller@cs.wisc.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bd:67:ab:fb:62:8e:3a:67:29:eb:2f:43:f9:b7:
+                    ee:87:ae:d4:16:50:f1:aa:cf:3c:a0:29:d1:7d:24:
+                    cb:3d:d2:40:4e:13:67:70:19:5e:83:0e:bb:e7:9f:
+                    e6:c9:ec:ae:80:fc:6f:de:4e:73:1b:47:4a:a8:62:
+                    fd:91:ea:b3:1c:03:82:c7:31:fc:ef:e6:b3:17:e8:
+                    df:a0:d4:12:80:dc:f1:db:2c:65:88:1a:4f:42:05:
+                    30:14:b8:d7:e7:a7:d8:17:b0:02:8f:9a:9c:31:0e:
+                    10:1c:c4:0a:06:ce:92:36:23:9d:8e:fc:06:18:f0:
+                    b9:0f:59:f3:50:b0:f3:4b:f5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                60:82:ED:55:23:38:1F:2B:6A:00:18:AE:E7:A4:2F:5D:A1:95:44:84
+            X509v3 Authority Key Identifier: 
+                keyid:A4:33:F5:08:20:0B:9A:8B:54:40:16:51:E9:64:0C:C3:83:B8:BD:33
+                DirName:/C=US/ST=Wisconsin/L=Madison/O=University of Wisconsin -- Madison/O=Computer Sciences Department/OU=Condor Project/CN=ROOT CA
+                serial:E0:A7:A0:8B:DF:BB:17:F5
+
+    Signature Algorithm: md5WithRSAEncryption
+         89:f7:95:0e:6b:de:17:19:78:ed:8e:e2:ae:1e:0b:3d:3d:64:
+         93:7e:27:cb:39:3f:b6:f0:c3:8d:ac:67:0c:00:b1:a8:06:e8:
+         54:1d:51:95:70:d6:f2:9b:72:05:b4:39:3d:f5:55:d1:e8:f6:
+         d9:d7:88:2e:a8:24:a6:42:80:74:a1:51:6d:bd:29:8d:c1:e6:
+         77:b4:21:e1:fe:47:58:9f:59:1d:fd:9f:2b:e8:4a:02:a0:6d:
+         44:12:1a:92:3c:65:02:5a:9c:e6:c3:7f:a5:91:d5:ee:96:1d:
+         47:cb:56:e0:6f:82:38:36:a5:bd:de:80:8b:48:97:4c:48:75:
+         0f:a8
+-----BEGIN CERTIFICATE-----
+MIIETDCCA7WgAwIBAgIBATANBgkqhkiG9w0BAQQFADCBsjELMAkGA1UEBhMCVVMx
+EjAQBgNVBAgTCVdpc2NvbnNpbjEQMA4GA1UEBxMHTWFkaXNvbjErMCkGA1UEChMi
+VW5pdmVyc2l0eSBvZiBXaXNjb25zaW4gLS0gTWFkaXNvbjElMCMGA1UEChMcQ29t
+cHV0ZXIgU2NpZW5jZXMgRGVwYXJ0bWVudDEXMBUGA1UECxMOQ29uZG9yIFByb2pl
+Y3QxEDAOBgNVBAMTB1JPT1QgQ0EwHhcNMTQwMjE4MDgzNDE5WhcNMTUwMjE4MDgz
+NDE5WjCB2jELMAkGA1UEBhMCVVMxEjAQBgNVBAgTCVdpc2NvbnNpbjEQMA4GA1UE
+BxMHTWFkaXNvbjErMCkGA1UEChMiVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4gLS0g
+TWFkaXNvbjElMCMGA1UEChMcQ29tcHV0ZXIgU2NpZW5jZXMgRGVwYXJ0bWVudDEX
+MBUGA1UECxMOQ29uZG9yIFByb2plY3QxFDASBgNVBAMTC1phY2ggTWlsbGVyMSIw
+IAYJKoZIhvcNAQkBFhN6bWlsbGVyQGNzLndpc2MuZWR1MIGfMA0GCSqGSIb3DQEB
+AQUAA4GNADCBiQKBgQC9Z6v7Yo46ZynrL0P5t+6HrtQWUPGqzzygKdF9JMs90kBO
+E2dwGV6DDrvnn+bJ7K6A/G/eTnMbR0qoYv2R6rMcA4LHMfzv5rMX6N+g1BKA3PHb
+LGWIGk9CBTAUuNfnp9gXsAKPmpwxDhAcxAoGzpI2I52O/AYY8LkPWfNQsPNL9QID
+AQABo4IBRjCCAUIwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBH
+ZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFGCC7VUjOB8ragAYruekL12h
+lUSEMIHnBgNVHSMEgd8wgdyAFKQz9QggC5qLVEAWUelkDMODuL0zoYG4pIG1MIGy
+MQswCQYDVQQGEwJVUzESMBAGA1UECBMJV2lzY29uc2luMRAwDgYDVQQHEwdNYWRp
+c29uMSswKQYDVQQKEyJVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbiAtLSBNYWRpc29u
+MSUwIwYDVQQKExxDb21wdXRlciBTY2llbmNlcyBEZXBhcnRtZW50MRcwFQYDVQQL
+Ew5Db25kb3IgUHJvamVjdDEQMA4GA1UEAxMHUk9PVCBDQYIJAOCnoIvfuxf1MA0G
+CSqGSIb3DQEBBAUAA4GBAIn3lQ5r3hcZeO2O4q4eCz09ZJN+J8s5P7bww42sZwwA
+sagG6FQdUZVw1vKbcgW0OT31VdHo9tnXiC6oJKZCgHShUW29KY3B5ne0IeH+R1if
+WR39nyvoSgKgbUQSGpI8ZQJanObDf6WR1e6WHUfLVuBvgjg2pb3egItIl0xIdQ+o
+-----END CERTIFICATE-----
